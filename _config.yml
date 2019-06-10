@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geospatial data consultant"
+title                    : "Julia Wagemann"
 title_separator          : "-"
 name                     : "Julia Wagemann"
 description              : "Geospatial data consultant, open-source advocate and community-builder"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julia Wagemann"
   avatar           : "logo.png"
-  bio              : "Geospatial data consultant, open-source advoate and community builder"
+  bio              : "Geospatial data consultant, open-source advocate and community builder"
   location         :
   employer         :
   pubmed           : 

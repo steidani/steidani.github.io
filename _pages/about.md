@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, my name is Julia Wagemann and I am a geospatial data consultant, PhD student and community builder on a mission to make open meteorological, climate and atmospheric data better accessible. My work is in the intersection between data users and data providers. I am a strong believer in the leverage of open-source geospatial software and in bringing different Earth Science communities together in oder to best exploit open geospatial data.
+Hi, my name is Julia Wagemann and I am a *geospatial data consultant, PhD student and community builder* on a mission to make open meteorological, climate and atmospheric data better accessible. My work is in the intersection between data users and data providers. I am a strong believer in the leverage of open-source geospatial software and in bringing different Earth Science communities together in oder to best exploit open geospatial data.
 
 Geospatial data consultant
 ------
