@@ -26,6 +26,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: #2aa198;
 }
 
 h1 {
@@ -66,7 +67,8 @@ ins {
   text-decoration: none;
   border-bottom: 1px solid $text-color;
   a {
-    color: inherit;
+#    color: inherit;
+     color: #2aa198;
   }
 }
 
