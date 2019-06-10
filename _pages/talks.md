@@ -3,8 +3,8 @@ permalink: /
 title: "Workshops & Talks"
 author_profile: true
 redirect_from:
-	- /about/
-	- /about.html
+	- /talks/
+	- /talks.html
 ---
 
 
