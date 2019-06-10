@@ -32,6 +32,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    color: #2aa198
   }
 
   h3, h4 {
@@ -111,7 +112,6 @@
 
 .author__name {
   margin: 0;
-  color: #cb4b16;
 
   @include breakpoint($large) {
     margin-top: 10px;
