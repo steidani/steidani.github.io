@@ -74,7 +74,8 @@ ins {
 }
 
 del a {
-  color: inherit;
+/*  color: inherit; */
+    color: #2aa198
 }
 
 /* reduce orphans and widows when printing */
@@ -118,6 +119,7 @@ a {
   &:focus {
     @extend %tab-focus;
   }
+  color: #2aa198;
 
   &:hover,
   &:active {
