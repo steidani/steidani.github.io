@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Wagemann"
+title                    : "Julia Wagemann - Geospatial data consultant"
 title_separator          : "-"
 name                     : "Julia Wagemann"
-description              : "Geospatial data consultant, open-source advocate and community-builder"
+description              : "Making meteorological, climate and atmospheric data better accessible"
 url                      : "https://jwagemann.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwagemann/jwagemann.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julia Wagemann"
   avatar           : "logo.png"
-  bio              : "Geospatial data consultant, open-source advocate and community builder"
+  bio              : "Making meteorological, climate and atmospheric data better accessible"
   location         :
   employer         :
   pubmed           : 
