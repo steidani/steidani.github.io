@@ -11,12 +11,12 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 Workshops
 ------
 **Upcoming** <br>
-- [Training course on Atmospheric Composition data](https://atmostraining.info/)<br>*Training course on atmospheric composition with a focus on air quality, Cluj-Napoca, Romania | 4-8 November 2019*<br><br>
-- [Earth Observations of Atmospheric Composition: priorities and methods for training and user uptake](https://www.eventsforce.net/eumetsat/media/uploaded/EVEUMETSAT/event_5/CALMET_EUMETCAL_Conference_-_Programme.pdf)<br>*CALMet XIII / Eumetcal Conference, Darmstadt, Germany | 19 September 2019*<br><br>This workshop will present the first version of the Python learning tool LTPy for Atmospheric Composition data.
+- [Training course on Atmospheric Composition data](https://atmostraining.info/)<br>*Training course on atmospheric composition with a focus on air quality, Cluj-Napoca, Romania | 4-8 November 2019*<br>
+- [Earth Observations of Atmospheric Composition: priorities and methods for training and user uptake](https://www.eventsforce.net/eumetsat/media/uploaded/EVEUMETSAT/event_5/CALMET_EUMETCAL_Conference_-_Programme.pdf)<br>*CALMet XIII / Eumetcal Conference, Darmstadt, Germany | 19 September 2019*<br><br>This workshop will present the first version of the Python learning tool LTPy for Atmospheric Composition data.<br>
 
 **Past** <br>
 - [Interactive analysis of Big Earth Data with Jupyter Notebooks](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks) <br>*European Geosciences Union 2019, Vienna, Austria*<br><br>This workshop was given at EGU 2019 and covers an introduction to Jupyter Notebooks, how to access large volumes of Big Earth Data from different data repositories and an example how to set up an interactive data workflow with Jupyter widgets. <br><br>
-- [Geospatial data and analysis using R](https://docs.google.com/presentation/d/1pEr9E16EJZ_I2wLBJnsCpOM4gSP4tz3s0s43N7DxuZk/edit?usp=sharing) <br>*R Ladies London Meetup, April 2019, London, UK*<br><br>This workshop was held during the R-Ladies London meetup in April 2019 and gave an introduction to geospatial data analysis in R. The workshop was given in collaboration with Claudia Vitolo.
+- [Geospatial data and analysis using R](https://docs.google.com/presentation/d/1pEr9E16EJZ_I2wLBJnsCpOM4gSP4tz3s0s43N7DxuZk/edit?usp=sharing)<br>*R Ladies London Meetup, April 2019, London, UK*<br><br>This workshop was held during the R-Ladies London meetup in April 2019 and gave an introduction to geospatial data analysis in R. The workshop was given in collaboration with Claudia Vitolo.
 
 
 Conference talks
