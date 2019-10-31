@@ -16,7 +16,7 @@ Workshops
 
 **Past** <br>
 - [Earth Observations of Atmospheric Composition: priorities and methods for training and user uptake](https://www.eventsforce.net/eumetsat/media/uploaded/EVEUMETSAT/event_5/CALMET_EUMETCAL_Conference_-_Programme.pdf) - *CALMet XIII / Eumetcal Conference - Darmstadt, Germany - 19 September 2019*<br>This workshop presentend the first version of the Python learning tool LTPy for Atmospheric Composition data.<br><br>
-- [Interactive analysis of Big Earth Data with Jupyter Notebooks](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks) - *European Geosciences Union 2019 - Vienna, Austria - 10 April 2019*<hr><br>This workshop was given at EGU 2019 and covers an introduction to Jupyter Notebooks, how to access large volumes of Big Earth Data from different data repositories and an example how to set up an interactive data workflow with Jupyter widgets. <br><br>
+- [Interactive analysis of Big Earth Data with Jupyter Notebooks](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks) - *European Geosciences Union 2019 - Vienna, Austria - 10 April 2019*<br>This workshop was given at EGU 2019 and covers an introduction to Jupyter Notebooks, how to access large volumes of Big Earth Data from different data repositories and an example how to set up an interactive data workflow with Jupyter widgets. <br><br>
 - [Geospatial data and analysis using R](https://docs.google.com/presentation/d/1pEr9E16EJZ_I2wLBJnsCpOM4gSP4tz3s0s43N7DxuZk/edit?usp=sharing) - *R Ladies London Meetup - London, UK - April 2019*<br>This workshop was held during the R-Ladies London meetup in April 2019 and gave an introduction to geospatial data analysis in R. The workshop was given in collaboration with Claudia Vitolo.
 
 
