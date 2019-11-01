@@ -14,10 +14,11 @@ You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), 
 
 - Geospatial data consultant
 ------
-I do consultancy work on open geospatial data and software. 
+I do consultancy work on open geospatial data, software and user engagement and I run [tutorials and workshops](/talks), mainly on the interactive (geo-)spatial data analysis, with Jupyter notebooks, Python and R. 
 	- I am the coordinator of the [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software. 
-	- In collaboration with EUMETSAT and MEEO s.r.l., I am developing LTPy, a series of Jupyter-based notebooks for atmospheric composition data. I run [tutorials and workshops](/talks), mainly on the interactive analysis of large volumes of Earth Observation data, with Jupyter notebooks, Python and R. 
-	- I am currently collaborating with the team of Google Earth Engine to make a subset of the climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) from Copernicus accessible via the Google Earth Engine platform.
+	- In collaboration with <a href="https://www.eumetsat.int/website/home/index.html" target="_blank">EUMETSAT</a> and <a href="http://www.meeo.it/wp/" target="_blank">MEEO s.r.l.</a>, I am developing LTPy, a series of Jupyter-based notebooks for atmospheric composition data.
+	- Together with <a href="http://www.bopen.it/" target="_blank">B-Open Solutions</a>, <a href="http://sabrinaszeto.com/" target="_blank">Sabrina Szeto Consulting</a> and EJQ-Quartz, I am developing practical tutorials and How-To Guides for the <a href="https://cds.climate.copernicus.eu/" target="_blank">Copernicus Climate Data Store Toolbox</a>.
+	- I collaborated with the team of Google Earth Engine and made a subset of the Copernicus climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) available as part of <a href="https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY" target="__blank">Google Earth Engine's public data catalog</a>.
 
 - PhD research
 ------
