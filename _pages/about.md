@@ -14,7 +14,10 @@ You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), 
 
 - Geospatial data consultant
 ------
-I do consultancy work on open geospatial data and software. I am the coordinator of the [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software. In collaboration with EUMETSAT and MEEO s.r.l., I am developing LTPy, a series of Jupyter-based notebooks for atmospheric composition data. I run [tutorials and workshops](/talks), mainly on the interactive analysis of large volumes of Earth Observation data, with Jupyter notebooks, Python and R. I am currently collaborating with the team of Google Earth Engine to make a subset of the climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) from Copernicus accessible via the Google Earth Engine platform.
+I do consultancy work on open geospatial data and software. 
+	- I am the coordinator of the [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software. 
+	- In collaboration with EUMETSAT and MEEO s.r.l., I am developing LTPy, a series of Jupyter-based notebooks for atmospheric composition data. I run [tutorials and workshops](/talks), mainly on the interactive analysis of large volumes of Earth Observation data, with Jupyter notebooks, Python and R. 
+	- I am currently collaborating with the team of Google Earth Engine to make a subset of the climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) from Copernicus accessible via the Google Earth Engine platform.
 
 - PhD research
 ------
