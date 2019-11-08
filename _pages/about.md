@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Julia Wagemann | About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi, I am Julia and I am a <font color='#2aa198'>geospatial data consultant, PhD candidate and community builder</font> on a mission to make open meteorological, climate and atmospheric data better accessible. My work is in the intersection between data users and data providers. I am a strong believer in the leverage of open-source geospatial software and in bringing different Earth Science communities together in order to make the best use of open geospatial data.<br>
-You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), [GitHub](https://github.com/jwagemann) and [LinkedIn](https://www.linkedin.com/in/julia-wagemann-99308b86/).
+You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), [GitHub](https://github.com/jwagemann) and [LinkedIn](https://www.linkedin.com/in/julia-wagemann/).
 
 - Geospatial data consultant
 ------
