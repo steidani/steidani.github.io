@@ -14,13 +14,13 @@ You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), 
 
 - Geospatial data consultant
 ------
-I do consultancy work on open geospatial data and software and user engagement and I run regular [workshops](/talks), mainly on interactive (geo-)spatial data analysis, with Jupyter notebooks, Python and R. 
+I do consultancy work on open geospatial data and software and user engagement and I run regular [workshops](/talks), mainly on interactive (geo-)spatial data analysis, with Jupyter notebooks, Python and R.
 
-Project I have been working on recently:
-	- Program lead | [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software. 
-	- Main developer and content lead | **Learning Tool for Python (LTPy) on Atmospheric Composition Data**, a series of Jupyter notebooks for atmsospheric composition data, including Sentinel-5p, Sentinel-3, GOME-2, IASI and CAMS. *(in collaboration with <a href="https://www.eumetsat.int/website/home/index.html" target="_blank">EUMETSAT</a> and <a href="http://www.meeo.it/wp/" target="_blank">MEEO s.r.l.</a>)*
-	- Developer | **Development of practical tutorials and How-To Guides** for <a href="https://cds.climate.copernicus.eu/" target="_blank">Copernicus Climate Data Store Toolbox</a>. *(in collaboration with <a href="http://www.bopen.it/" target="_blank">B-Open Solutions</a>, <a href="http://sabrinaszeto.com/" target="_blank">Sabrina Szeto Consulting</a> and EJQ-Quartz)*
-	- Main developer and project lead | [ERA5 in Google Earth Engine](https://github.com/jwagemann/era5_in_gee) - Made a subset of the Copernicus climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) available as part of <a href="https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY" target="__blank">Google Earth Engine's public data catalog</a>.
+Project I have been working on recently:<br>
+- Program lead | [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software. 
+- Main developer and content lead | **Learning Tool for Python (LTPy) on Atmospheric Composition Data**, a series of Jupyter notebooks for atmsospheric composition data, including Sentinel-5p, Sentinel-3, GOME-2, IASI and CAMS. *(in collaboration with <a href="https://www.eumetsat.int/website/home/index.html" target="_blank">EUMETSAT</a> and <a href="http://www.meeo.it/wp/" target="_blank">MEEO s.r.l.</a>)*
+- Developer | **Development of practical tutorials and How-To Guides** for <a href="https://cds.climate.copernicus.eu/" target="_blank">Copernicus Climate Data Store Toolbox</a>. *(in collaboration with <a href="http://www.bopen.it/" target="_blank">B-Open Solutions</a>, <a href="http://sabrinaszeto.com/" target="_blank">Sabrina Szeto Consulting</a> and EJQ-Quartz)*
+- Main developer and project lead | [ERA5 in Google Earth Engine](https://github.com/jwagemann/era5_in_gee) - Made a subset of the Copernicus climate reanalysis [ERA5 dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) available as part of <a href="https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY" target="__blank">Google Earth Engine's public data catalog</a>.
 
 - PhD research
 ------
