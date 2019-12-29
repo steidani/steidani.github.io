@@ -14,7 +14,7 @@ You can find me on Twitter [@JuliaWagemann](https://twitter.com/JuliaWagemann), 
 
 - Geospatial data consultant
 ------
-I do consultancy work on open geospatial data and software and user engagement and I run regular [workshops](/talks), mainly on interactive (geo-)spatial data analysis, with Jupyter notebooks, Python and R.<br>
+I do consultancy work on open geospatial data and software and user engagement and I run [workshops](/talks), mainly on interactive (geo-)spatial data analysis, with Jupyter notebooks, Python and R.<br>
 Projects I have been working on recently:<br>
   - *Program lead* - [ECMWF Summer of Weather Code (ESoWC)](https://github.com/esowc) programme, an online coding programme to develop weather-related open-source software.<br>
   - *Main developer and content lead* - **Learning Tool for Python (LTPy) on Atmospheric Composition Data**, a series of Jupyter notebooks for atmsospheric composition data, including Sentinel-5p, Sentinel-3, GOME-2, IASI and CAMS. *(in collaboration with <a href="https://www.eumetsat.int/website/home/index.html" target="_blank">EUMETSAT</a> and <a href="http://www.meeo.it/wp/" target="_blank">MEEO s.r.l.</a>)*<br>
