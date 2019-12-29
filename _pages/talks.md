@@ -20,11 +20,8 @@ Workshops
 
 Conference talks
 ------
-**Upcoming**
-- Copernicus climate reanalysis ERA5 in Google Earth Engine<br>*Earth Engine Virtual Meetup - Virtual - 4 December 2019* <br>
-**<a href='https://zoom.us/meeting/register/885056003078b1a77510d14dfea9e911' target='_blank'>[>> Sign up]</a>**
-
 **2019**
+- <a href='https://speakerdeck.com/jwagemann/era5-climate-reanalysis-in-earth-engine' target='_blank'>Copernicus climate reanalysis ERA5 in Google Earth Engine</a><br>*Earth Engine Virtual Meetup - Virtual - 4 December 2019* <br>
 - <a href="https://speakerdeck.com/jwagemann/open-data-and-tools-from-ecmwf-and-copernicus" target='_blank'>Open Data and Tools from ECMWF / Copernicus</a><br>*World Food Programme's First Global GIS Workshop - Rome, Italy - 22-23 October 2019*
 - <a href="https://speakerdeck.com/jwagemann/challenges-and-needs-of-reproducible-workflows-of-open-weather-and-climate-data" target='_blank'>Challenges and needs of reproducible workflows of Open Big Weather and Climate data</a> - **<a href='https://vimeo.com/366256755' target='_blank'>[Recording]</a>**<br>*Workshop: Building reproducible workflows for Earth sciences - Reading, UK - 14-16 October 2019*
 - <a href="https://speakerdeck.com/jwagemann/open-meteorological-and-climate-data-building-bridges-between-user-communities" target="_blank">Keynote: Open Meteorological and Climate Data - Building bridges between user communities</a> - **<a href='https://www.youtube.com/watch?v=dtXV95mJHSs&t=926s' target='_blank'>[Recording]</a>** <br>*FOSS4G 2019 - Bucharest, Romania - 28-30 August 2019*
