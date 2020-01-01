@@ -10,6 +10,8 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 
 Workshops
 ------
+**2020**
+- <a href='https://opengeohub.org/summer_school_2020' target='_blank'>Analysis of Big Earth Data with Jupyter Notebooks</a>*OpenGeoHub Summer School 2020 - Wageningen, Netherlands - 16-22 August 2020*
 
 **2019**
 - <a href="https://atmostraining.info/" target="_blank">Accessing and processing atmospheric composition data with Python and Jupyter notebooks</a><br>*First Joint Training Course on Atmospheric Composition - Cluj-Napoca, Romania - 4-8 November 2019*<br>Two practical sessions introduced course participants to different types of atmospheric composition data from AC-SAF, Sentinel-5P and CAMS and gave hands-on examples how the data can be handled, processed and visualized with Python.<br><br>
