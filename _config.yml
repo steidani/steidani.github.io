@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Wagemann - Geospatial data consultant"
+title                    : "Daniel Steinfeld"
 title_separator          : "-"
-name                     : "Julia Wagemann"
-description              : "Making meteorological, climate and atmospheric data better accessible"
-url                      : "https://jwagemann.github.io"
+name                     : "Daniel Steinfeld"
+description              : "PhD in Atmospheric and Climate Science at ETH Zurich"
+url                      : "https://steidani.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jwagemann/jwagemann.github.io"
+repository               : "steidani/steidani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julia Wagemann"
+  name             : "Daniel Steinfeld"
   avatar           : "logo.png"
-  bio              : "Making meteorological, climate and atmospheric data better accessible"
+  bio              : "PhD in Atmospheric and Climate Science at ETH Zurich"
   location         :
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "wagemann.julia@gmx.de"
+  email            : "dani_steinfeld@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jwagemann"
+  github           : "steidani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "julia-wagemann"
+  linkedin         : "steidani"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JuliaWagemann"
+  twitter          : "steidani1"
   vine             :
   weibo            :
   xing             :
