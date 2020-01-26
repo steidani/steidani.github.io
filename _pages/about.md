@@ -16,5 +16,5 @@ The focus of my research was on atmospheric and climate dynamics, aimed at analy
 
 I am currently working as a NatCat Modeler for a reinsurance company.
 
-![Alt Text](http://steidani.github.io/images/animation_blocking.gif | height = 100px)
+[[http://steidani.github.io/images/animation_blocking.gif | height = 100px]]
 
