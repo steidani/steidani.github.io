@@ -20,4 +20,4 @@ Articles (peer-reviewed)
 PhD Thesis
 ---------------
 
-- Steinfeld D., 2019: [The role of latent heating in atmospheric blocking dynamics: a global climatology](https://doi.org/10.1007/s00382-019-04919-6), ETH Zurich
+- Steinfeld D., 2019: [The role of latent heating in atmospheric blocking: climatology and numerical experiments](https://www.research-collection.ethz.ch/handle/20.500.11850/380041), ETH Zurich
