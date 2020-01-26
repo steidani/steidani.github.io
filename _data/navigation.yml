@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Workshops & Talks"
-    url: /talks/
-
-  - title: "Community Engagement"
-    url: /engagement/    
+    url: /talks/   
 
   - title: "Publications"
     url: /publications/   
+    
+  - title: "Blog Posts"
+    url: /year-archive/
