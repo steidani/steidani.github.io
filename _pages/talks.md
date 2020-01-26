@@ -10,6 +10,10 @@ Talks
 &nbsp;&nbsp;&nbsp;&nbsp;PhD Defense, Insitute for Atmospheric and Climate Science, ETH Zurich  
 &nbsp;&nbsp;&nbsp;&nbsp;_May 2019, ETH Zurich, Switzerland_  
 
+**Microphysical processes in Diabatic Rossby Waves**: [pdf](http://steidani.github.io/files/master_defense_daniel_steinfeld_2015.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern
+&nbsp;&nbsp;&nbsp;&nbsp;2015, University of Bern, Switzerland_  
+
 Workshops 
 -------
 **Wasser in der Atmosphäre (engl. Water in the Atmosphere)**: [Part 1](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil1.pdf), [Part 2](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil2.pdf)  
