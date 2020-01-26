@@ -16,6 +16,10 @@ Workshops
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor Course "Klimatologie" at ZHAW Zurich University of Applied Sciences  
 &nbsp;&nbsp;&nbsp;&nbsp;_2019, ZHAW, Switzerland_
 
+**Weather system perspective in GCMs**: [pdf](http://steidani.github.io/files/cesm_meeting_dec_2018.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;C2SM GCM User Workshop
+&nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_
+
 
 
 
