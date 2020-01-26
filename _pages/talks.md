@@ -25,7 +25,7 @@ Workshops
 &nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
 
 **Was ist Wetter? (engl. What is Weather?)**: [pdf](http://steidani.github.io/files/girls_day_18_dani.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;IAC Girls’ Day 2018
+&nbsp;&nbsp;&nbsp;&nbsp;IAC Girls’ Day 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
 
 
