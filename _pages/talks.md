@@ -28,6 +28,11 @@ Workshops
 &nbsp;&nbsp;&nbsp;&nbsp;IAC Girls’ Day 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
 
+Posters 
+-------
+**Sensitivity of blocking to changes in upstream latent heating**: [pdf](http://steidani.github.io/files/cyc_201909_compressed.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019
+&nbsp;&nbsp;&nbsp;&nbsp;_October 2019, Germany_
 
 
 
