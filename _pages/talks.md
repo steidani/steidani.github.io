@@ -11,7 +11,7 @@ Talks
 &nbsp;&nbsp;&nbsp;&nbsp;_May 2019, ETH Zurich, Switzerland_  
 
 **Microphysical processes in Diabatic Rossby Waves**: [pdf](http://steidani.github.io/files/master_defense_daniel_steinfeld_2015.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern
+&nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern  
 &nbsp;&nbsp;&nbsp;&nbsp;2015, University of Bern, Switzerland_  
 
 Workshops 
