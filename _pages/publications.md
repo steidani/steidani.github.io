@@ -10,7 +10,7 @@ Articles (peer-reviewed)
 
 - Steinfeld D., Sprenger M., Beyerle U., Wernli H., Pfahl S., 2020: Changes in atmospheric blocking dynamics in a warmer climate, in preparation
 
-- Steinfeld D., Böttcher M., Forbes R., Pfahl S., 2019: The sensitivity of atmospheric blocking to changes in upstream latent heating – numerical experiments, in preparation
+- Steinfeld D., Böttcher M., Forbes R., Pfahl S., 2020: [The sensitivity of atmospheric blocking to changes in upstream latent heating – numerical experiments](https://www.weather-clim-dynam-discuss.net/wcd-2020-5/), Weather and Climate Dynamics
 
 - Steinfeld D. and Pfahl S., 2019: [The role of diabatic processes in atmospheric blocking dynamics – a climatological analysis](https://link.springer.com/article/10.1007%2Fs00382-019-04919-6), Climate Dynamics
 
