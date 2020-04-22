@@ -31,7 +31,7 @@ Workshops
 Posters 
 -------
 **Sensitivity of blocking to changes in upstream latent heating**: [pdf](http://steidani.github.io/files/wcb_2020_ifs_sensitivity.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019 and WCB Workshop 2020
+&nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019 and WCB Workshop 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;_October 2019, Germany and March 2020, England_
 
 
