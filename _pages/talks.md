@@ -14,6 +14,14 @@ Talks
 &nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern  
 &nbsp;&nbsp;&nbsp;&nbsp;_2015, University of Bern, Switzerland_  
 
+Conference and Seminar (select) 
+-------------------------------
+**The role of latent heating in atmospheric blocking (invited talk)**
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 06/2019 at Weizmann Institute of Science, 
+&nbsp;&nbsp;&nbsp;&nbsp;seminar 07/2019 at Freie Univerität Berlin, 
+&nbsp;&nbsp;&nbsp;&nbsp;group meeting 12/2020 at University of Oxford 
+&nbsp;&nbsp;&nbsp;&nbsp;seminar 02/2021 at [ECMWF](https://events.ecmwf.int/event/264/)_  
+
 Workshops 
 -------
 **Wasser in der Atmosphäre (engl. Water in the Atmosphere)**: [Part 1](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil1.pdf), [Part 2](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil2.pdf)  
