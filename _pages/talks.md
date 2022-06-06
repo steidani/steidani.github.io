@@ -20,7 +20,8 @@ Conference and Seminar (select)
 &nbsp;&nbsp;&nbsp;&nbsp;_seminar 06/2019 at Weizmann Institute of Science_     
 &nbsp;&nbsp;&nbsp;&nbsp;_seminar 07/2019 at Freie Univerität Berlin_     
 &nbsp;&nbsp;&nbsp;&nbsp;_group meeting 12/2020 at University of Oxford_     
-&nbsp;&nbsp;&nbsp;&nbsp;_seminar 02/2021 at [ECMWF](https://events.ecmwf.int/event/264/)_
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 02/2021 at [ECMWF](https://events.ecmwf.int/event/264/)_  
+&nbsp;&nbsp;&nbsp;&nbsp;_colloquium 10/2021 at University of Bern_
 
 Workshops 
 -------
