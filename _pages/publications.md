@@ -12,7 +12,7 @@ Articles (peer-reviewed)
 
 - Tuel, A., Steinfeld, D., Ali, M., Sprenger, M., Martius, O., 2022: Large-scale drivers of persistent extreme weather during early summer 2021 in Europe, submitted to Geophysical Research Letters
 
-- Steinfeld D., Sprenger M., Beyerle U., Pfahl S., 2022: Response of physical processes in atmospheric blocking to climate change, accepted with minor revisions, submitted to Environmental Research Letters
+- Steinfeld D., Sprenger M., Beyerle U., Pfahl S., 2022: Response of physical processes in atmospheric blocking to climate change, accepted with minor revisions in Environmental Research Letters
 
 - Steinfeld, D., Peter, A., Martius, O., Brönnimann, S., 2022: [Assessing the performance of various fire weather indices for wildfire occurrence in Northern Switzerland](https://doi.org/10.5194/egusphere-2022-92), preprint, submitted to Natural Hazards and Earth System Sciences
 
