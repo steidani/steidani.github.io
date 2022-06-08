@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 
+- [My Google Scholar](https://scholar.google.com/citations?user=iyS5s0wAAAAJ&hl=de&oi=ao)
+
 Articles (peer-reviewed)
 ---------------
 
