@@ -18,7 +18,7 @@ Articles (peer-reviewed)
 
 - Miralles, O., Steinfeld, D., Martius, O., Davison, A., 2022: Downscaling of historical wind fields over Switzerland using Generative Adversarial Networks, under review, submitted to Artificial Intelligence for the Earth Systems
 
-- Cheng, Y., Tjernstörm, M., Devasthale, M., Steinfeld D., 2022: The role of atmospheric blocking in regulating Arctic warming, accepted in Geophysical Research Letters
+- Cheng, Y., Tjernstörm, M., Devasthale, M., Steinfeld D., 2022: [The role of atmospheric blocking in regulating Arctic warming](https://doi.org/10.1029/2022GL097899), Geophysical Research Letters
 
 - Steinfeld D., Böttcher M., Forbes R., Pfahl S., 2020: [The sensitivity of atmospheric blocking to upstream latent heating – numerical experiments](https://wcd.copernicus.org/articles/1/405/2020/wcd-1-405-2020.html), Weather and Climate Dynamics
 
