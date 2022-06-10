@@ -43,6 +43,9 @@ Posters
 &nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019 and WCB Workshop 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;_October 2019, Germany and March 2020, England_
 
+**Response of physical processes in atmospheric blocking to climate change**: [pdf](http://steidani.github.io/files/bws2021_poster_danielsteinfeld.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Atmospheric Blocking Workshop 2021](https://blocking-workshop-2021.wavestoweather.de/) and [Swiss Climate Summer School 2022](https://www.oeschger.unibe.ch/studies/summer_school/2022/scope/index_eng.html).
+&nbsp;&nbsp;&nbsp;&nbsp;September 2021, Germany and August 2022, Switzerland_
 
 
 
