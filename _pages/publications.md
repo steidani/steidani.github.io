@@ -8,7 +8,7 @@ author_profile: true
 - [My Google Scholar](https://scholar.google.com/citations?user=iyS5s0wAAAAJ&hl=de&oi=ao)
 
 Articles (peer-reviewed)
----------------
+-----------------------
 
 - Tuel, A., **Steinfeld, D.**, Ali, M., Sprenger, M., Martius, O., 2022: Large-scale drivers of persistent extreme weather during early summer 2021 in Europe, submitted to Geophysical Research Letters
 
@@ -27,11 +27,11 @@ Articles (peer-reviewed)
 - Heggli M., Köchle B., Matzl M., Pinzer B.R., Riche F., Steiner S., **Steinfeld D.**, Schneebeli M., 2011: [Measuring snow in 3-D using X-ray tomography: assessment of visualization techniques](https://doi.org/10.3189/172756411797252202), Annals of Glaciology
 
 Reports
----------------
+----------
 
-- Contributed to Rodwell, M., Forbes, R., Wernli, H. 2018: [Why warm conveyor belts matter in NWP](https://www.ecmwf.int/node/18203), ECMWF newsletter
+- Contributed to Rodwell, M., Forbes, R., Wernli, H., 2018: [Why warm conveyor belts matter in NWP](https://www.ecmwf.int/node/18203), ECMWF newsletter
 
 PhD Thesis
----------------
+------------
 
 - **Steinfeld D.**, 2019: [The role of latent heating in atmospheric blocking: climatology and numerical experiments](https://www.research-collection.ethz.ch/handle/20.500.11850/380041), ETH Zurich
