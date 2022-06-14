@@ -26,6 +26,10 @@ Articles (peer-reviewed)
 
 - Heggli M., Köchle B., Matzl M., Pinzer B.R., Riche F., Steiner S., **Steinfeld D.**, Schneebeli M., 2011: [Measuring snow in 3-D using X-ray tomography: assessment of visualization techniques](https://doi.org/10.3189/172756411797252202), Annals of Glaciology
 
+Reports
+---------------
+
+- Contributed to Rodwell, M., Forbes, R., Wernli, H. 2018: [Why warm conveyor belts matter in NWP](https://www.ecmwf.int/node/18203), ECMWF newsletter
 
 PhD Thesis
 ---------------
