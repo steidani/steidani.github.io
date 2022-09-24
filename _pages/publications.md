@@ -10,7 +10,7 @@ author_profile: true
 Articles (peer-reviewed)
 -----------------------
 
-- Tuel, A., **Steinfeld, D.**, Ali, M., Sprenger, M., Martius, O., 2022: Large-scale drivers of persistent extreme weather during early summer 2021 in Europe, submitted to Geophysical Research Letters
+- Tuel, A., **Steinfeld, D.**, Ali, M., Sprenger, M., Martius, O., 2022: [Large-scale drivers of persistent extreme weather during early summer 2021 in Europe](https://doi.org/10.1029/2022GL099624), Geophysical Research Letters
 
 - **Steinfeld D.**, Sprenger M., Beyerle U., Pfahl S., 2022: [Response of moist and dry processes in atmospheric blocking to climate change](https://doi.org/10.1088/1748-9326/ac81af), Environmental Research Letters
 
