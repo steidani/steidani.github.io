@@ -22,5 +22,5 @@ Learn more about my project at the University of Bern here: [https://www.geograp
 You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
 
 
-![](http://steidani.github.io/images/animation_blocking.gif)
+![](http://steidani.github.io/images/ifs_sim.gif)
 
