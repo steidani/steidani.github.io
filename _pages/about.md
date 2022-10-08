@@ -22,5 +22,6 @@ Learn more about my project at the University of Bern here: [https://www.geograp
 You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
 
 
-![](http://steidani.github.io/images/ifs_sim.gif)
-*Numerical simulation of an extreme weather event (persistent atmospheric blocking) with the global weather model IFS from ECMWF (as part of my PhD project).*
+|![](http://steidani.github.io/images/ifs_sim.gif)|
+|:--:| 
+| *Numerical simulation of an extreme weather event (persistent atmospheric blocking) with the global weather model IFS from ECMWF (as part of my PhD project).* |
