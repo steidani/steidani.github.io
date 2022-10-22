@@ -25,7 +25,7 @@ Articles (peer-reviewed)
 
 - **Steinfeld, D.**, Peter, A., Martius, O., Brönnimann, S., 2022: [Assessing the performance of various fire weather indices for wildfire occurrence in Northern Switzerland](https://doi.org/10.5194/egusphere-2022-92), preprint, submitted to Natural Hazards and Earth System Sciences
 
-- Miralles, O., **Steinfeld, D.**, Martius, O., Davison, A., 2022: Downscaling of historical wind fields over Switzerland using Generative Adversarial Networks, **accepted**, Artificial Intelligence for the Earth Systems
+- Miralles, O., **Steinfeld, D.**, Martius, O., Davison, A., 2022: [Downscaling of historical wind fields over Switzerland using Generative Adversarial Networks](https://doi.org/10.1175/AIES-D-22-0018.1), Artificial Intelligence for the Earth Systems
 
 - Cheng, Y., Tjernstörm, M., Devasthale, M., **Steinfeld D.**, 2022: [The role of atmospheric blocking in regulating Arctic warming](https://doi.org/10.1029/2022GL097899), Geophysical Research Letters
 
