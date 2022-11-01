@@ -16,6 +16,8 @@ In Preparation
 
 - Koh, J., **Steinfeld, D.**: Predicting risks of temperature extremes using large-scale circulation patterns with r--Pareto processes
 
+- Herrmann, M., Weber, H., **Steinfeld, D.**: Relevance of atmospheric blocking for co-located fire weather danger and active fires in Europe 
+
 Articles (peer-reviewed)
 -----------------------
 
