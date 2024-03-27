@@ -7,7 +7,7 @@ author_profile: true
 Talks
 ------
 **Unbewegliche Riesen? Der Einfluss des Klimawandels auf Atmosphärische Blockierungen**: [pdf](http://steidani.github.io/files/20240320_SGM_steinfeld.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;SGM Symposium "Verrücktes Wetter
+&nbsp;&nbsp;&nbsp;&nbsp;SGM Symposium "Verrücktes Wetter"  
 &nbsp;&nbsp;&nbsp;&nbsp;_March 2023, ETH Zurich, Switzerland_  
 
 **The role of latent heating in atmospheric blocking**: [pdf](http://steidani.github.io/files/defense_daniel_steinfeld_2019.pdf)  
