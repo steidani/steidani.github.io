@@ -25,6 +25,10 @@ Conference and Seminar (select)
 
 Workshops 
 -------
+**The Non-Conservation of Potential Vorticity and Atmospheric Blocking - Lecture Notes**: [pdf](http://steidani.github.io/files/Week12_pvnon_block.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;Master Course "Meteorology 3" at University of Bern  
+&nbsp;&nbsp;&nbsp;&nbsp;_2021, Uni Bern, Switzerland_  
+
 **Wasser in der Atmosphäre (engl. Water in the Atmosphere)**: [Part 1](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil1.pdf), [Part 2](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil2.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor Course "Klimatologie" at ZHAW Zurich University of Applied Sciences  
 &nbsp;&nbsp;&nbsp;&nbsp;_2019, ZHAW, Switzerland_  
