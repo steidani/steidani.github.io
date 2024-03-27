@@ -25,7 +25,7 @@ Conference and Seminar (select)
 
 Workshops 
 -------
-**The Non-Conservation of Potential Vorticity and Atmospheric Blocking - Lecture Notes**: [pdf](http://steidani.github.io/files/Week12_pvnon_block.pdf)
+**The Non-Conservation of Potential Vorticity and Atmospheric Blocking - Lecture Notes**: [pdf](http://steidani.github.io/files/Week12_pvnon_block.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;Master Course "Meteorology 3" at University of Bern  
 &nbsp;&nbsp;&nbsp;&nbsp;_2021, Uni Bern, Switzerland_  
 
