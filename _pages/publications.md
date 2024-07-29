@@ -14,7 +14,7 @@ In Preparation
 
 - **Steinfeld, D.**, Hauser, S., Teubler, F.: The many different circulation patterns and pyhsical processes in atmospheric blocking
 
-- Koh, J., **Steinfeld, D.**: Predicting risks of temperature extremes using large-scale circulation patterns with r--Pareto processes
+- Koh, J., **Steinfeld, D.**, Martius O., 2024 : [Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes](https://arxiv.org/abs/2401.12195)
 
 - Herrmann, M., Weber, H., **Steinfeld, D.**: Relevance of atmospheric blocking for co-located fire weather danger and active fires in Europe 
 
