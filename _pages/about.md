@@ -9,18 +9,15 @@ redirect_from:
 ---
 
 
-Hi, it's nice to meet you :)
+Hi there, it's great to meet you! :)
 
-My name is Daniel Steinfeld and I'm a PostDoc researcher at the Oeschger Centre for Climate Change Research, University of Bern. I'm working on various research projects about large-scale dynamics and climate extremes. In one applied project in collaboration with the Canton of Bern and the Wyss Academy for Nature, we analyse past, present and future forest fires in Switzerland and develop statistical models (machine learning, deep learning) to better predict fire weather danger.
+I'm Daniel Steinfeld, a researcher at the GVZ Gebäudeversicherung Kanton Zürich, specializing in weather and climate risks. My work focuses on various projects related to natural hazards and sustainability.
 
-A little bit about me: I did my Masters in Climate Sciences at the [University of Bern](https://www.oeschger.unibe.ch/studium/studienprogramme/index_ger.html) and my PhD in Atmospheric Sciences at [ETH Zurich](https://iac.ethz.ch/group/atmospheric-dynamics.html). The focus of my research was on atmospheric and climate dynamics, aimed at analysing physical processes governing the large-scale circulation and high-impact weather phenomena such as atmospheric blocking and windstorms.  
+A bit about my background: I studied physics and geosciences, and hold a Masters in Climate Sciences from the University of Bern and a PhD in Atmospheric Sciences from ETH Zurich. My research has centered on atmospheric and climate dynamics, analyzing physical processes that govern large-scale circulation and high-impact weather events like atmospheric blocking and windstorms. In the past, I've worked as a PostDoc at the Oeschger Centre for Climate Change Research, University of Bern, and I also spent two years as a Risk Modeler for a Swiss insurance company.
 
-Previously, I worked for two years as a Natural Catastrophe Risk Modeler for a Swiss insurance company.
-     
-Learn more about my project at the University of Bern here: [https://www.geography.unibe.ch/about_us/staff/dr_steinfeld_daniel](https://www.geography.unibe.ch/about_us/staff/dr_steinfeld_daniel/index_eng.html)  
+In my free time, you can find me either on a river kayaking or skiing and hiking in the mountains.
 
 You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
-
 
 |![](http://steidani.github.io/images/ifs_sim.gif)|
 |:--:| 
