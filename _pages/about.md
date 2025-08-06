@@ -13,7 +13,7 @@ Hi there, it's great to meet you! :)
 
 I'm Daniel Steinfeld, a researcher at the GVZ Gebäudeversicherung Kanton Zürich, specializing in weather and climate risks. My work focuses on various projects related to natural hazards and sustainability.
 
-A bit about my background: I studied physics and geosciences, and hold a Masters in Climate Sciences from the University of Bern and a PhD in Atmospheric Sciences from ETH Zurich. My research focuses on atmospheric and climate dynamics, analyzing physical processes that govern large-scale circulation and high-impact weather events like atmospheric blocking and windstorms. In the past, I've worked as a PostDoc at the Oeschger Centre for Climate Change Research, University of Bern, and I also spent two years as a Risk Modeler for a Swiss insurance company.
+A bit about my background: I studied Physics and Geosciences, with a PhD in Atmospheric Sciences and a DAS in Applied Statistical Data Science from ETH Zurich. My research focuses on atmospheric and climate dynamics, analyzing physical processes that govern large-scale circulation and high-impact weather events like atmospheric blocking and windstorms. In the past, I've worked as a PostDoc at the Oeschger Centre for Climate Change Research, University of Bern, and I also spent two years as a Risk Modeler for a Swiss insurance company.
 
 In my free time, you can find me either on a river kayaking or skiing and hiking in the mountains.
 
