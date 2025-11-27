@@ -14,12 +14,13 @@ In Preparation
 
 - **Steinfeld, D.**, Hauser, S., Teubler, F.: The many different circulation patterns and pyhsical processes in atmospheric blocking
 
-- Koh, J., **Steinfeld, D.**, Martius O., 2024 : [Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes](https://arxiv.org/abs/2401.12195)
-
-- Herrmann, M., Weber, H., **Steinfeld, D.**: Relevance of atmospheric blocking for co-located fire weather danger and active fires in Europe 
 
 Articles (peer-reviewed)
 -----------------------
+
+- Koh, J., **Steinfeld, D.**, Martius O., 2025 : [Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes](https://doi.org/10.1098/rspa.2024.0763), Proceedings of the Royal Society A
+
+- Herrmann, M., Weber, H., Martius, O., Brönnimann, S, **Steinfeld, D.**, 2025: [Atmospheric Blocks Increase the Odds of Extreme Wildfire Danger at High Latitudes in the Northern Hemisphere](https://doi.org/10.1029/2025GL115117), Geophysical Research Letters
 
 - Xi X., **Steinfeld D.**, Cavallo S.M., Wang J., Chen J., Zulpykharov K., Henebry G.M., 2023: [What caused the unseasonal extreme dust storm in Uzbekistan during November 2021?](https://dx.doi.org/10.1088/1748-9326/ad02af), Environmental Research Letters
 
